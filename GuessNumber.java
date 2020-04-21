@@ -42,7 +42,6 @@ public class GuessNumber {
         if (amountOfAttempts == 5) {
             System.out.println("Попытки закончились");
         }
-
     }
 }
 
